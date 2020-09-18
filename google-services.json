@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571994275632",
+    "firebase_url": "https://news-65f60.firebaseio.com",
+    "project_id": "news-65f60",
+    "storage_bucket": "news-65f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571994275632:android:f1126491520697c1c792f5",
+        "android_client_info": {
+          "package_name": "com.mydreamworld.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571994275632-r4k8mi57fsvdna2aikbej79a3vs2vivv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT7fpeLtFicHukgHZ6iN-21lHw7WFBNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571994275632-r4k8mi57fsvdna2aikbej79a3vs2vivv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

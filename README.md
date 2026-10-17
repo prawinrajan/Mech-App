@@ -1,5 +1,5 @@
 # Mech-App
-This app is basic version of <a href="https://github.com/prawinrajan/FinalApp">Final app</a> repository.
+This app is basic version of <a href="https://github.com/prawinrajan/NewsFeed-Android">NewsFeed-Android</a> repository.
 In this app, I have tired <a href="https://material.io/design">Material Design</a>.
 
 1. Start-up page
